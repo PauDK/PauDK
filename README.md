@@ -1,3 +1,3 @@
-# 👋 Hello
+# 👋 Hello & Welcome!
 
-Welcome! I'm Pau, a Georgia Tech MS Analytics student and a Data Science Intern at Stitch Fix.
+I'm Pau a Georgia Tech MS Analytics student and a Data Science Intern at Stitch Fix.
